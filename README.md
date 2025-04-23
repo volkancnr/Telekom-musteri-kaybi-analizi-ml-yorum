@@ -1,0 +1,4 @@
+Sürekli olarak müşteri kaybı yaşandığı vakitlerde bu duruma bir son vermek gerekmektedir. Verilen hizmette yeni müşteriler kazanmanın yanında bu müşterileri işletmeye sadık hale getirmek gerekmektedir. İşletmenizin ayakta kalabilmesi için sadık müşterilere ihtiyacı vardır ve bu yüzden müşterileri mutlu tutmak için hizmeti sürekli olarak iyileştirmenin yolları aranmalıdır. Bu yapılmadığı taktirde işletme düşüş yaşayacaktır.
+
+Bu çalışmada elimizdeki örnek Telekom müşteri hizmet verileri ve sunulan hizmete karşın müşteri kaybı durumunun bulunduğu verilerle, bir Telekom şirketinin hangi durumlarda müşteri kaybı yapıp hangi durumlarda müşteri kaybının önüne geçebileceğinin analizi yapıldı. Aynı zamanda makine öğrenmesinde sınıflandırma algoritması kullanarak verilen hizmete göre müşteri kaybı olup olmama durumunun tahmini yapıldı.
+
